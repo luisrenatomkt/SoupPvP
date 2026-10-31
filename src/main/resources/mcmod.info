@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "souplegit",
+    "name": "Soup PvP Legit",
+    "description": "Sopa de cogumelos classica de Soup PvP, apenas em mundos singleplayer: clique direito manual cura 3,5 coracoes e devolve a tigela.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": [],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "useDependencyInformation": false
+  }
+]
